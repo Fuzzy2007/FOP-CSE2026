@@ -11,6 +11,7 @@ int main() {
     // Performing calculations
     sum = num1 + num2;
     diff = num1 - num2;
+    
     product = num1 * num2;
 
     // Displaying the results
